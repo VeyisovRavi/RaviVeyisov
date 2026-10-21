@@ -24,7 +24,7 @@
 
 ### 📊 GitHub İstatistika & Streak
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VeyisovRavi&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical&hide_border=true" width="48%" />
 </div>
 
