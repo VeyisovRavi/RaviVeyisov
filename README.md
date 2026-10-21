@@ -1,25 +1,39 @@
 <div align="center">
-
-  <!-- Animasiyalı Üst Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15,23,42,88,28,135&height=200&section=header&text=Ravi%20%7C%20Data%20Engineer&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" />
-
-  <!-- Avtomatik Yazılan Başlıqlar -->
-  <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Building+Scalable+Data+Pipelines;ETL+%2F+ELT+%7C+Data+Warehouse;Apache+Spark+%7C+Snowflake+%7C+Airflow" alt="Typing SVG" />
+  <h1>Salam, mən Rəvi! 👋</h1>
+  <p><em>Data Engineering & Cloud Architecture Enthusiast 🚀</em></p>
+  
+  <!-- Texnologiya və Bacarıq nişanları -->
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" />
+    <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
+    <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   </p>
-
-  <!-- Əlaqə Düymələri -->
-  <a href="https://linkedin.com/in/profiliniz"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:emailiniz@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
 </div>
 
-<br/>
+---
 
-## 🎯 Fokus Sahələrim
+### 💻 Mənim Haqqımda
+- 🔭 Hal-hazırda **Data Engineering** və böyük verilənlər arxitekturası üzrə biliklərimi dərinləşdirirəm.
+- 🌱 ETL/ELT pipeline-ları, məlumat modelləşdirməsi və bulud texnologiyaları üzrə layihələr qururam.
+- ⚡ Əsas maraq dairələrim: Python, SQL optimizasiyası, PySpark, Airflow və Snowflake.
 
-```text
-├── 🏗️ Architecture  : Data Lakehouse & Cloud Data Warehouse
-├── 🔄 Pipelines     : ETL / ELT Workflow Automation
-├── ⚡ Big Data      : Distributed Data Processing & Transformations
-└── 📊 Optimization  : SQL Query Tuning & Data Modeling
+---
+
+### 📊 GitHub İstatistika & Streak
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical&hide_border=true" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=radical&hide_border=true" width="100%" />
+</div>
+
+---
+
+<div align="center">
+  <em>"Məlumat düzgün emal olunduqda gələcəyin açarına çevrilir." 🚀</em>
+</div>
