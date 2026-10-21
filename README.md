@@ -1,24 +1,40 @@
 <div align="center">
-  <h1>Salam, mən Rəvi! 👋</h1>
-  <p><em>Data Engineering & Cloud Architecture Enthusiast 🚀</em></p>
-  
-  <!-- Texnologiya və Bacarıq nişanları -->
-  <p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-    <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" />
-    <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
-    <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  </p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=Salam,+m%C9%99n+R%C9%99vi!+👋;Data+Engineering+Enthusiast+🚀;Building+Scalable+Data+Pipelines+⚡" alt="Typing SVG" />
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="www.linkedin.com/in/ravi-veyisov-3a0735322" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
+  <a href="mailto:raviveyisov@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
 </div>
 
 ---
 
-### 💻 Mənim Haqqımda
-- 🔭 Hal-hazırda **Data Engineering** və böyük verilənlər arxitekturası üzrə biliklərimi dərinləşdirirəm.
-- 🌱 ETL/ELT pipeline-ları, məlumat modelləşdirməsi və bulud texnologiyaları üzrə layihələr qururam.
-- ⚡ Əsas maraq dairələrim: Python, SQL optimizasiyası, PySpark, Airflow və Snowflake.
+### 🔭 Mənim Haqqımda
+
+<table align="center">
+  <tr>
+    <td width="55%">
+      <ul>
+        <li>🚀 Hal-hazırda <b>Data Engineering</b> və böyük verilənlər arxitekturası üzrə biliklərimi dərinləşdirirəm.</li>
+        <li>💡 ETL/ELT pipeline-ları, məlumat modelləşdirməsi və bulud texnologiyaları üzrə layihələr qururam.</li>
+        <li>🎯 Məqsədim: Xam məlumatları təmizləyərək dəyərli və sürətli biznes qərarlarına çevirməkdir.</li>
+      </ul>
+    </td>
+    <td width="45%" align="center">
+      <p><em>"Məlumat düzgün emal olunduqda gələcəyin açarına çevrilir." ⚡</em></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ Texnologiya və Bacarıqlar
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,sql,postgres,spark,snowflake,airflow,docker,git,linux,bash,vscode,github&theme=dark" alt="Tech Stack" />
+</div>
 
 ---
 
