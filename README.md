@@ -1,55 +1,36 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=Salam,+m%C9%99n+R%C9%99vi!+👋;Data+Engineering+Enthusiast+🚀;Building+Scalable+Data+Pipelines+⚡" alt="Typing SVG" />
+
+  <!-- Futuristic Cyberpunk/Neon Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,12,38,15&height=220&section=header&text=RAVI%20%E2%9A%A1&fontSize=52&fontColor=ffffff&animation=twinkle&fontY=40&desc=Data%20Engineering%20%7C%20Cloud%20Architecture%20%7C%20Big%20Data&descSize=18&descAlignY=62&descAlign=50" width="100%" />
+
+  <!-- Quick Status Badges -->
+  <p align="center">
+    <a href="https://github.com/USERNAME">
+      <img src="https://komarev.com/ghprofile/ucount/?username=USERNAME&style=for-the-badge&color=8A2BE2&label=PROFILE+VIEWS" alt="Profile Views" />
+    </a>
+    <img src="https://img.shields.io/badge/Status-Building_Pipelines_🚀-00F5FF?style=for-the-badge&labelColor=1a1a2e" />
+    <img src="https://img.shields.io/badge/Location-Baku%2C_Azerbaijan-FF007F?style=for-the-badge&labelColor=1a1a2e" />
+  </p>
+
+  <!-- Social Links -->
+  <p align="center">
+    <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  </p>
+
 </div>
 
 <br/>
 
-<div align="center">
-  <a href="www.linkedin.com/in/ravi-veyisov-3a0735322" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
-  <a href="mailto:raviveyisov@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
-</div>
+### 👨‍💻 `whoami` & Terminal Interface
 
----
 
-### 🔭 Mənim Haqqımda
-
-<table align="center">
-  <tr>
-    <td width="55%">
-      <ul>
-        <li>🚀 Hal-hazırda <b>Data Engineering</b> və böyük verilənlər arxitekturası üzrə biliklərimi dərinləşdirirəm.</li>
-        <li>💡 ETL/ELT pipeline-ları, məlumat modelləşdirməsi və bulud texnologiyaları üzrə layihələr qururam.</li>
-        <li>🎯 Məqsədim: Xam məlumatları təmizləyərək dəyərli və sürətli biznes qərarlarına çevirməkdir.</li>
-      </ul>
-    </td>
-    <td width="45%" align="center">
-      <p><em>"Məlumat düzgün emal olunduqda gələcəyin açarına çevrilir." ⚡</em></p>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🛠️ Texnologiya və Bacarıqlar
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,sql,postgres,spark,snowflake,airflow,docker,git,linux,bash,vscode,github&theme=dark" alt="Tech Stack" />
-</div>
-
----
-
-### 📊 GitHub İstatistika & Streak
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VeyisovRavi&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VeyisovRavi&layout=compact&theme=radical&hide_border=true" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VeyisovRavi&theme=radical&hide_border=true" width="100%" />
-</div>
-
----
-
-<div align="center">
-  <em>"Məlumat düzgün emal olunduqda gələcəyin açarına çevrilir." 🚀</em>
-</div>
+⚡ ravi@data-engine:~$ cat about_me.json
+{
+  "Name": "Rəvi",
+  "Role": "Data Engineer & Big Data Enthusiast",
+  "Core_Focus": ["ETL/ELT Pipelines", "Data Warehousing", "Distributed Systems"],
+  "Current_Stack": ["Python", "SQL", "PySpark", "Snowflake", "Apache Airflow"],
+  "Architecture_Goal": "Xam məlumatları təmizləyib yüksək performanslı analitik modellərə çevirmək",
+  "Motto": "Məlumat düzgün emal olunduqda gələcəyin açarına çevrilir."
+}
