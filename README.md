@@ -1,44 +1,66 @@
+# Hi there, I'm Ravi 👋 
+
 <div align="center">
-
-  <!-- Glow/Gradient Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,12,38,15&height=200&section=header&text=Rəvi%20Rəhimov%20⚡&fontSize=48&fontColor=ffffff&animation=twinkle&fontY=40&desc=Data%20Engineer%20%7C%20Big%20Data%20%26%20Cloud%20Architecture&descSize=18&descAlignY=62&descAlign=50" width="100%" />
-
-  <!-- Animated Typing Status -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Data+Pipelines+🚀;ETL%2FELT+Architecture+%26+Cloud+DWH;Transforming+Raw+Data+into+Value+⚡" alt="Typing SVG" />
-  </a>
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Data+Engineer+In-Training;Building+Scalable+Data+Pipelines;SQL+%7C+Python+%7C+Spark+%7C+Cloud" alt="Typing SVG" />
 </div>
 
-<br/>
+<br />
+
+### 🚀 About Me
+
+- 💻 I'm passionate about **Data Engineering**, **Data Warehousing**, and building robust **ETL/ELT Pipelines**.
+- 🛠️ Currently working with **Python**, **SQL**, **PySpark**, and Cloud platforms like **Snowflake**.
+- ⚙️ Exploring workflow orchestration tools such as **Apache Airflow** and modern data transformation with **dbt**.
+- 🎯 Goal: Designing high-performance, scalable distributed systems and analytical data pipelines.
 
 ---
 
-### 🛠️ Texnologiyalar & Alətlər
+### 🛠️ Tech Stack & Tools
+
+#### **Languages & Data Processing**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+#### **Data Warehousing & Databases**
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+#### **Orchestration & DevOps**
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📌 Featured Data Engineering Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| ** Weather ETL Pipeline** | End-to-end API ingestion and staging to Snowflake with analytics-ready SQL views. | `Python` `Snowflake` `SQL` |
+| ** Stock Data Pipeline** | Ingesting and cleaning financial REST API data with automated deduplication. | `Python` `Pandas` `APIs` |
+| ** Cricket Data Analytics** | Analyzing IPL match and player performance using advanced window functions and CTEs. | `SQL` `PostgreSQL` |
+
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
-
-  <!-- Interactive Icon Grid -->
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=python,sql,postgres,spark,snowflake,airflow,docker,git,linux,bash,vscode,github&theme=dark" alt="Skill Icons" />
-  </a>
-
-  <br/><br/>
-
-  <!-- High-End Glassmorphism Badges -->
-  <p align="center">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-    <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" />
-    <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
-    <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  </p>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=VeyisovRavi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VeyisovRavi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="160"/>
 </div>
 
 ---
 
-<div align="center">
-  <sub><i>Minimalist & Powerful Profile Design 🚀</i></sub>
+### 📫 Connect with Me
+
+<div align="left">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_PROFILE" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:raviveyisov@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </div>
