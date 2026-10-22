@@ -44,7 +44,6 @@
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | Weather ETL Pipeline | End-to-end API ingestion and staging to Snowflake with analytics-ready SQL views. | `Python` `Snowflake` `SQL` |
-| Stock Data Pipeline | Ingesting and cleaning financial REST API data with automated deduplication. | `Python` `Pandas` `APIs` |
 | Cricket Data Analytics | Analyzing IPL match and player performance using advanced window functions and CTEs. | `SQL` `PostgreSQL` |
 
 ---
