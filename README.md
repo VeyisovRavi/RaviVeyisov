@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00D2FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ravi+%F0%9F%90%B3; Welcome+to+my+GitHub+Profile!+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00D2FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ravi+%F0%9F%90%B3;Welcome+to+my+GitHub+Profile!+%F0%9F%9A%80" alt="Typing SVG" />
 </h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Data+Engineer;Building+Scalable+Data+Pipelines;SQL+%7C+Python+%7C+Spark+%7C+Cloud" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Data+Engineer;Building+Scalable+Data+Pipelines;SQL+%7C+Python+%7C+Spark+%7C+Cloud+%7C+Airflow" alt="Typing SVG" />
 </div>
 
 <br />
